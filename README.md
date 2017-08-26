@@ -5,7 +5,7 @@ the game and its rules, see http://www.goodmagic.com/websales/midway/razzle.htm.
 
 This simulator demonstrates just how great the odds are stacked against a player.
 On average it would cost more money to win then there are atoms in the universe.
-The operator will therefore often miscount to give a player extra points to keep
+The operator will therefore often miscount to give a player extra points and keep
 them motivated to play, but never enough to actually win in any reasonable number
 of rounds.
 
