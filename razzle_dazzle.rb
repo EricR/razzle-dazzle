@@ -93,13 +93,14 @@ module RazzleDazzle
             @score += score
             if won?
               @won = true
+              # We won, so stop playing
               return true
             end
           end
         end
-
-        false
       end
+      
+      false
     end
 
     def won?
